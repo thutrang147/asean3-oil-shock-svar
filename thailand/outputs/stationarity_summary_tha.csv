@@ -1,6 +1,0 @@
-Variable,ADF_Level_p,ADF_Diff_p,Order,Reason
-ln_WTI,0.1305,0.0000,I(1),Stationary after first difference
-ln_GDP,0.4803,0.1320,I(1)+,Non-stationary even after differencing
-ln_CPI,0.8396,0.1573,I(1)+,Non-stationary even after differencing
-Interest,0.2594,0.2693,I(1)+,Non-stationary even after differencing
-ln_FX,0.1312,0.1729,I(1)+,Non-stationary even after differencing
